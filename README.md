@@ -64,6 +64,7 @@
 
 ## 学習中
 
+- データ分析([SIGNATE](https://signate.jp/users/75538))
 - Node.js(Express)
 - Vue.js + TypeScript
 - AWS
